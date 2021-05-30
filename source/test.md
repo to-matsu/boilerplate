@@ -1,6 +1,8 @@
 ---
-title: Say Hello to the world
-date: 2019-02-07
+title: はじめての記事
+date: 2019-06-19
+tags: ["サンプル", "チュートリアル"]
+excerpt: これは抜粋です。
 ---
 
 __太字のテキストです__
